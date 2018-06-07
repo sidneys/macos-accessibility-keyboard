@@ -110,13 +110,13 @@ Tested on macOS High Sierra 10.13.4.
 
 ## <a name="contributions"/></a> Contribututions ![Contribute](https://img.shields.io/badge/contributions-wanted-red.svg?style=flat-square)
 
-Read the [contribution documentation](https://github.com/sidneys/git-status-cli/blob/release/CONTRIBUTING.md) first.
+Read the [contribution documentation](https://github.com/sidneys/macos-accessibility-keyboard/blob/release/CONTRIBUTING.md) first.
 
-- [Dev Chat](http://gitter.im/sidneys/git-status-cli): Talk about features and suggestions.
-- [Issues](http;//github.com/sidneys/git-status-cli/issues) File bugs and document issues.
+- [Dev Chat](http://gitter.im/sidneys/macos-accessibility-keyboard): Talk about features and suggestions.
+- [Issues](http;//github.com/sidneys/macos-accessibility-keyboard/issues) File bugs and document issues.
 
 
 ## <a name="author"/></a> Author
 
-[sidneys](http://sidneys.github.io) 2018
+[sidneys.github.io](http://sidneys.github.io) 2018
 

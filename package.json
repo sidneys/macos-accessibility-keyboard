@@ -1,7 +1,7 @@
 {
   "name": "macos-accessibility-keyboard",
   "appId": "de.sidneys.macos-accessibility-keyboard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The missing interface for the hidden native virtual on-screen keyboard on macOS.",
   "license": "MIT",
   "homepage": "https://github.com/sidneys/macos-accessibility-keyboard",
