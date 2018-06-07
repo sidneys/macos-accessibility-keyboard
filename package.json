@@ -1,0 +1,51 @@
+{
+  "name": "macos-accessibility-keyboard",
+  "appId": "de.sidneys.macos-accessibility-keyboard",
+  "version": "1.0.0",
+  "description": "The missing interface for the hidden native virtual on-screen keyboard on macOS.",
+  "license": "MIT",
+  "homepage": "https://github.com/sidneys/macos-accessibility-keyboard",
+  "author": {
+    "name": "sidneys",
+    "email": "sidneys.github.io@outlook.com",
+    "url": "https://sidneys.github.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sidneys/macos-accessibility-keyboard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sidneys/macos-accessibility-keyboard/issues"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "os": [
+    "darwin"
+  ],
+  "keywords": [
+    "accessibility",
+    "keyboard",
+    "onboard",
+    "TouchBar",
+    "virtual keyboard",
+    "onscreen keyboard",
+    "osa"
+  ],
+  "dependencies": {
+    "@sidneys/logger": "^1.3.0",
+    "app-root-path": "^2.0.1",
+    "execa": "^0.10.0",
+    "osa2": "^0.2.3"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "jsdoc": "^3.5.5"
+  },
+  "preferGlobal": false,
+  "scripts": {
+    "docs": "./node_modules/.bin/jsdoc --verbose --configure .jsdoc.json",
+    "start": "node ./lib/main.js"
+  },
+  "main": "./lib/main.js"
+}
